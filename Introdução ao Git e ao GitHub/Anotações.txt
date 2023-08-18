@@ -1,6 +1,43 @@
 # Comandos do Git 
 
-git status 
-git add . - adicionar alterações ao git
-git commit -m "" 
-git push origin main - enviar para nuvem
+ctrl l
+limpa página
+
+ls
+listar
+
+cd nomedapasta/
+entrar na pasta
+
+mkdir nomedapasta
+criar pasta
+
+git init
+inicializar repositório
+
+ls -a
+lista itens ocultos
+
+cd .. 
+voltar um nível de pasta
+
+git add . 
+adicionar alterações ao git
+
+git commit -m ""
+enviar alterações 
+
+git remote add origin linkdogithub
+apontar o repositório
+
+git remote -v
+lista de repositórios remotos cadastrados
+
+git status
+ver status de pendência
+
+git push origin branshdapasta
+enviar para nuvem
+
+git pull origin branshdapasta
+receber alterações sofridas exteriormente
