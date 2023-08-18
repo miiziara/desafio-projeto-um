@@ -1,0 +1,6 @@
+# Comandos do Git 
+
+git status 
+git add . - adicionar alterações ao git
+git commit -m "" 
+git push origin main - enviar para nuvem
